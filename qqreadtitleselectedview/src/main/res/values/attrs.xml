@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQReadTitleSelectedView">
+        <attr name="qrtsv_items" format="reference"/>
+        <attr name="qrtsv_text_size" format="dimension"/>
+        <attr name="qrtsv_selected_color" format="color"/>
+        <attr name="qrtsv_normal_color" format="color"/>
+        <attr name="qrtsv_border_width" format="dimension"/>
+
+    </declare-styleable>
+</resources>
