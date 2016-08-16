@@ -15,9 +15,7 @@ qrtsv_border_width | dimension | 边框宽度
 
 ## Add the dependency
 ```java
-dependencies {
-    compile 'com.cq.csnowstack:loadingbutton:1.0.0'
-}
+
 ```
 
 ## 简单使用
